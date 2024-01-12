@@ -1,0 +1,73 @@
+.nome {
+    border: solid 6px #c1930af2;
+    text-align: center;
+    font-weight: 60px;
+    margin: 20px 100px;
+    padding: 10px;
+    color: #030341;
+    background-color: white;
+}
+
+.topo{
+    background-color: #030341;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 150px;
+    width: 100%;
+}
+
+.container{
+    color: #030341;
+    background-color: aliceblue;
+    margin-top: 160px;
+}
+
+.objetivo{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.row{
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.col{
+    /*background-color:aquamarine*/
+    border: #030341 solid;
+    border-radius: 10px ;
+
+}
+
+.barra{
+    border: solid 6px #000000;
+    color: #000;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.subtitulo{
+    border: solid 6px #c1930af2;
+    text-align: center;
+    font-weight: 40px;
+    padding: 10px;
+    color: #030341;
+}
+
+li{
+    list-style-type: none;
+    align-items:first baseline;
+}
+
+
+.realiza{
+    padding: 0px 50px 0px 50px;
+}
+
+
+.exp{
+    list-style-type: disc;
+}
