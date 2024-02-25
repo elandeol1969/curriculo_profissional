@@ -29,6 +29,16 @@
     padding-right: 50px;
 }
 
+.row1{
+    
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    margin: 15px;
+    justify-content: space-between;
+}
+
 .row{
     text-align: center;
     font-size: 15px;
@@ -39,7 +49,9 @@
     /*background-color:aquamarine*/
     border: #030341 solid;
     border-radius: 10px ;
-
+    padding: 15px;
+    justify-content: space-between;
+    width: 40px;
 }
 
 .barra{
