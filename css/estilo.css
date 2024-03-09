@@ -184,9 +184,14 @@ li {
     }
 
     .midia {
-        margin-left: 5px;
+        margin-bottom: 50px;
         align-items: start;
         font-size: 12px;
     }
+
+    .midias_sociais {
+        font-size: 12px;
+    }
+
 
 }
