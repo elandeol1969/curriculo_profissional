@@ -89,9 +89,17 @@ li {
     padding: 0px 50px 0px 50px;
 }
 
-
 .exp {
     list-style-type: disc;
+}
+
+.midia {
+    margin-bottom: 50px;
+}
+
+.midias_sociais {
+    padding-left: 50px;
+
 }
 
 @media screen and (max-width: 768px) {
