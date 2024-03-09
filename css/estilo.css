@@ -99,6 +99,7 @@ li {
 
 .midias_sociais {
     padding-left: 50px;
+    align-items: center;
 
 }
 
@@ -180,6 +181,11 @@ li {
     .exp {
         list-style-type: disc;
         font-size: 12px;
+    }
+
+    .midia {
+        margin-left: 5px;
+        align-items: start;
     }
 
 }
